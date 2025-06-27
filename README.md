@@ -26,7 +26,7 @@
 ### 🚆 [QuanLyVeTau](https://github.com/MinhDangk3/QuanLyVeTau)
 > Ứng dụng Java Swing quản lý vé tàu — thêm, sửa, xoá và tính tổng doanh thu
 
-### 🚧 [NhanDangBienBaoGiaoThong](https://github.com/MinhDangk3/NhanDangBienBaoGiaoThong)
+### 🚧 [Project_traffic-sign-recognition](https://github.com/MinhDangk3/Project_traffic-sign-recognition)
 > Hệ thống nhận diện biển báo giao thông bằng Python và OpenCV
 
 ---
