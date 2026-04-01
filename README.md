@@ -21,12 +21,13 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:leminhdang1122334455@gmail.com">
+  <a href="mailto:leminhdang29003@gmail.com">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-l%C3%AA-29ba74303/">
+  <a href="[https://www.linkedin.com/in/%C4%91%C4%83ng-l%C3%AA-29ba74303/](https://www.linkedin.com/in/le-minh-dang-29ba74303/)">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
   </a>
+  
 </p>
 
 ---
