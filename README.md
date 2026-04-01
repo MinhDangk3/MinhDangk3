@@ -1,84 +1,24 @@
-# 👋 Xin chào, tôi là Lê Minh Đăng
+## 👨‍💻 About Me
+
+🎓 I'm a Computer Science student in Vietnam.
+
+🚀 A fast learner passionate about **AI, Machine Learning, Data Science, and Backend Development**.
+
+📈 Currently building real-world projects like **AI Chatbot, Computer Vision systems, and Data Analysis dashboards**.
+
+💡 Strong interest in **LLMs, RAG systems, and AI applications**.
+
+---
 
 <p align="center">
-🚀 <b>Aspiring AI Engineer | Data Analyst | Backend Developer</b> <br>
-💡 Đam mê Machine Learning, Data Science và xây dựng ứng dụng AI thực tế
+  <img height="197" src="https://github-readme-stats.vercel.app/api?username=MinhDangk3&show_icons=true&hide_border=true&theme=dracula&count_private=true">
+  <img height="197" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDangk3&layout=compact&hide_border=true&theme=dracula&langs_count=10" />
 </p>
 
 ---
 
-## 🚀 Giới thiệu
-
-* 🎓 Sinh viên Công nghệ Thông tin
-* 🔭 Đã thực hiện các dự án với **Python, Java, SQL, Power BI**
-* 🌱 Đang tập trung vào **Machine Learning, Computer Vision, AI Chatbot**
-* 💡 Kỹ năng: Phân tích dữ liệu • Xây dựng mô hình ML • Thiết kế UI (Swing/Tkinter)
-* 💬 Ngôn ngữ: `Python` • `Java` • `SQL` • `JavaScript` • `ReactJS` • `HTML/CSS`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhDangk3&show_icons=true&theme=dracula&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDangk3&layout=compact&theme=dracula&hide_border=true">
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<!-- Languages -->
-
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25"/>
-<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ED8B00" height="25"/>
-<img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25"/>
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25"/>
-
-<!-- Tools -->
-
-<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-learn&logoColor=F7931E" height="25"/>
-<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=F2C811" height="25"/>
-
-</p>
-
----
-
-## 🔥 Featured Projects
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=AI-Health-Chatbot&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=BlinkIT-Sales-Analysis&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=QuanLyVeTau&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=Project_traffic-sign-recognition&theme=radical" />
-
-</p>
-
----
-
-## 📸 Demo Project
-
-<!-- 📸 THÊM ẢNH Ở ĐÂY (CỰC QUAN TRỌNG) -->
-
----
-
-## 🎯 Định hướng
-
-🚀 Mục tiêu của tôi là trở thành **AI Engineer**, xây dựng các hệ thống:
-
-* Chatbot AI (LLM, RAG)
-* Computer Vision
-* Data-driven applications
-
----
-
-## 📫 Liên hệ
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:leminhdang1122334455@gmail.com">
@@ -91,6 +31,78 @@
 
 ---
 
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+
 <p align="center">
-⭐ <b>Cảm ơn bạn đã ghé thăm!</b> Nếu thấy project hữu ích, hãy ⭐ repo nhé!
+
+<!-- Languages -->
+
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25"/>
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ED8B00" height="25"/>
+<img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25"/>
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25"/>
+
+<!-- Frameworks -->
+
+<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=white" height="25"/>
+
+<!-- Data -->
+
+<img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" height="25"/>
+<img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=013243" height="25"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-learn&logoColor=F7931E" height="25"/>
+
+<!-- Tools -->
+
+<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=F2C811" height="25"/>
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25"/>
+
 </p>
+
+---
+
+## 🔥 Projects
+
+<div align="center"> 
+
+  <a href="https://github.com/MinhDangk3/AI-Health-Chatbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=AI-Health-Chatbot&theme=radical" />
+  </a>
+
+  <a href="https://github.com/MinhDangk3/BlinkIT-Sales-Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=BlinkIT-Sales-Analysis&theme=radical" />
+  </a>
+
+  <a href="https://github.com/MinhDangk3/QuanLyVeTau">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=QuanLyVeTau&theme=radical" />
+  </a>
+
+  <a href="https://github.com/MinhDangk3/Project_traffic-sign-recognition">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=Project_traffic-sign-recognition&theme=radical" />
+  </a>
+
+</div>
+
+---
+
+## 📸 Demo
+
+<!-- 📸 THÊM ẢNH (CỰC QUAN TRỌNG) -->
+
+---
+
+## 🎯 Career Goal
+
+🚀 Become an **AI Engineer** focused on:
+
+* LLM Applications (Chatbot, RAG)
+* Computer Vision
+* Data-driven systems
+
+---
+
+## 💡 Quote
+
+> "Don't limit your challenges — challenge your limits."
