@@ -1,44 +1,96 @@
-<h1 align="center">👋 Xin chào, tôi là Lê Minh Đăng</h1>
+# 👋 Xin chào, tôi là Lê Minh Đăng
 
 <p align="center">
-🎓 Sinh viên Công nghệ Thông tin <br>
-📊 Thực tập sinh Phân Tích Dữ Liệu / Lập trình viên Java <br>
-🚀 Yêu thích Python • SQL • Java • AI • Power BI , Javascrip ,Reactjs
-
-
+🚀 <b>Aspiring AI Engineer | Data Analyst | Backend Developer</b> <br>
+💡 Đam mê Machine Learning, Data Science và xây dựng ứng dụng AI thực tế
+</p>
 
 ---
 
-## 📌 Giới thiệu nhanh
+## 🚀 Giới thiệu
 
-- 🔭 Tôi vừa hoàn thành các dự án học thuật sử dụng **Python, Java, SQL, Power BI**
-- 🌱 Tôi đang học về **Machine Learning, xử lý ảnh và phát triển ứng dụng desktop**
-- 💡 Tôi có khả năng **phân tích dữ liệu, thiết kế giao diện (Swing/Tkinter), trực quan hóa biểu đồ**
-- 💬 Ngôn ngữ: `Python`, `Java`, `SQL`, `HTML`, `CSS` , ` Javascrip`,`Reactjs`
+* 🎓 Sinh viên Công nghệ Thông tin
+* 🔭 Đã thực hiện các dự án với **Python, Java, SQL, Power BI**
+* 🌱 Đang tập trung vào **Machine Learning, Computer Vision, AI Chatbot**
+* 💡 Kỹ năng: Phân tích dữ liệu • Xây dựng mô hình ML • Thiết kế UI (Swing/Tkinter)
+* 💬 Ngôn ngữ: `Python` • `Java` • `SQL` • `JavaScript` • `ReactJS` • `HTML/CSS`
 
 ---
 
-## 💼 Dự Án Nổi Bật
+## 📊 GitHub Stats
 
-### 📦 [BlinkIT-Sales-Analysis](https://github.com/MinhDangk3/BlinkIT-Sales-Analysis)
-> Phân tích dữ liệu bán hàng thực tế từ Blinkit bằng Python, SQL và Power BI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhDangk3&show_icons=true&theme=dracula&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDangk3&layout=compact&theme=dracula&hide_border=true">
+</p>
 
-### 🚆 [QuanLyVeTau](https://github.com/MinhDangk3/QuanLyVeTau)
-> Ứng dụng Java Swing quản lý vé tàu — thêm, sửa, xoá và tính tổng doanh thu
+---
 
-### 🚧 [Project_traffic-sign-recognition](https://github.com/MinhDangk3/Project_traffic-sign-recognition)
-> Hệ thống nhận diện biển báo giao thông bằng Python và OpenCV
+## 🛠 Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25"/>
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ED8B00" height="25"/>
+<img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25"/>
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25"/>
+
+<!-- Tools -->
+
+<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-learn&logoColor=F7931E" height="25"/>
+<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=F2C811" height="25"/>
+
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=AI-Health-Chatbot&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=BlinkIT-Sales-Analysis&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=QuanLyVeTau&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=Project_traffic-sign-recognition&theme=radical" />
+
+</p>
+
+---
+
+## 📸 Demo Project
+
+<!-- 📸 THÊM ẢNH Ở ĐÂY (CỰC QUAN TRỌNG) -->
+
+---
+
+## 🎯 Định hướng
+
+🚀 Mục tiêu của tôi là trở thành **AI Engineer**, xây dựng các hệ thống:
+
+* Chatbot AI (LLM, RAG)
+* Computer Vision
+* Data-driven applications
 
 ---
 
 ## 📫 Liên hệ
 
-- Email: **leminhdang1122334455@gmail.com**
-- LinkedIn: *(https://www.linkedin.com/in/%C4%91%C4%83ng-l%C3%AA-29ba74303/)*
-
+<p align="center">
+  <a href="mailto:leminhdang1122334455@gmail.com">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-l%C3%AA-29ba74303/">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-Cảm ơn bạn đã ghé qua hồ sơ của tôi! ⭐ Nếu bạn thấy dự án hữu ích, hãy ghé xem và theo dõi nhé!
+⭐ <b>Cảm ơn bạn đã ghé thăm!</b> Nếu thấy project hữu ích, hãy ⭐ repo nhé!
 </p>
