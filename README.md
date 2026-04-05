@@ -46,9 +46,8 @@
   <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" height="25" />
 
   <!-- Tools & Frameworks -->
- 
+
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />
-  <img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=FFFFFF" height="25" />
   <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit&logoColor=FF4B4B" height="25" />
   <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626" height="25" />
@@ -58,15 +57,17 @@
   <img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=013243" height="25" />
   <img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-learn&logoColor=F7931E" height="25" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=EE4C2C" height="25" />
+  <img src="https://img.shields.io/badge/Matplotlib-282C34?logo=plotly&logoColor=3F4F75" height="25" />
 
   <!-- Others -->
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="25" />
-height="25" />
   <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25" />
   
 </p>
 
 ---
+
+
 
 ## 🔥 Projects
 
