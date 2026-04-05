@@ -66,25 +66,25 @@
 
 ## 🔥 Projects
 
-<div align="center"> 
+<p align="center">
 
-  <a href="https://github.com/MinhDangk3/AI-Health-Chatbot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=AI-Health-Chatbot&theme=radical" />
-  </a>
+<a href="https://github.com/MinhDangk3/AI-Health-Chatbot">
+  <img src="https://img.shields.io/badge/AI_Health_Chatbot-LLM%20%7C%20NLP%20%7C%20Flask-blue?style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/MinhDangk3/BlinkIT-Sales-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=BlinkIT-Sales-Analysis&theme=radical" />
-  </a>
+<a href="https://github.com/MinhDangk3/BlinkIT-Sales-Analysis">
+  <img src="https://img.shields.io/badge/BlinkIT_Analysis-Python%20%7C%20PowerBI-green?style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/MinhDangk3/QuanLyVeTau">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=QuanLyVeTau&theme=radical" />
-  </a>
+<a href="https://github.com/MinhDangk3/Project_traffic-sign-recognition">
+  <img src="https://img.shields.io/badge/Traffic_Sign_Recognition-CNN%20%7C%20OpenCV-red?style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/MinhDangk3/Project_traffic-sign-recognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhDangk3&repo=Project_traffic-sign-recognition&theme=radical" />
-  </a>
+<a href="https://github.com/MinhDangk3/QuanLyVeTau">
+  <img src="https://img.shields.io/badge/Train_Ticket_System-Java%20%7C%20OOP-orange?style=for-the-badge"/>
+</a>
 
-</div>
+</p>
 
 
 ## 🎯 Career Goal
