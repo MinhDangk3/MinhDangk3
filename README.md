@@ -58,7 +58,6 @@
   <img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=013243" height="25" />
   <img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-learn&logoColor=F7931E" height="25" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=EE4C2C" height="25" />
-  <img src="https://img.shields.io/badge/Matplotlib-282C34?logo=plotly&logoColor=3F4F75" height="25" />
 
   <!-- Others -->
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="25" />
