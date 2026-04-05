@@ -84,9 +84,6 @@
   <img src="https://img.shields.io/badge/Traffic_Sign_Recognition-CNN%20%7C%20OpenCV-orange?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/MinhDangk3/QuanLyVeTau">
-  <img src="https://img.shields.io/badge/Train_Ticket_System-Java%20%7C%20OOP-yellow?style=for-the-badge"/>
-</a>
 
 </p>
 
