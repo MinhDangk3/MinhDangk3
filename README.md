@@ -24,10 +24,10 @@
   <a href="https://www.facebook.com/minh.ang.6682" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/ncp2005/" target="_blank">
+  <a href="https://www.linkedin.com/in/le-minh-dang-29ba74303/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:congphatnguyen.work@gmail.com" target="_blank">
+  <a href="mailto:leminhdang29003@gmail.com target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
   </a>
   
