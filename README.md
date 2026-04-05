@@ -86,13 +86,6 @@
 
 </div>
 
----
-
-## 📸 Demo
-
-
-
----
 
 ## 🎯 Career Goal
 
