@@ -21,16 +21,21 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:leminhdang29003@gmail.com">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"/>
+  <a href="https://www.facebook.com/phat.nguyencong.2005/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="[https://www.linkedin.com/in/%C4%91%C4%83ng-l%C3%AA-29ba74303/](https://www.linkedin.com/in/le-minh-dang-29ba74303/)">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/ncp2005/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:congphatnguyen.work@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
   </a>
   
 </p>
 
 ---
+
+##
 
 ##
 
