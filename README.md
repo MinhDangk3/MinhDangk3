@@ -96,7 +96,3 @@
 * Data-driven systems
 
 ---
-
-## 💡 Quote
-
-> "Don't limit your challenges — challenge your limits."
