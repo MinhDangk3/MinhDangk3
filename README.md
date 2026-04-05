@@ -10,13 +10,13 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img height="197" src="https://github-readme-stats.vercel.app/api?username=MinhDangk3&show_icons=true&hide_border=true&theme=dracula&count_private=true">
   <img height="197" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDangk3&layout=compact&hide_border=true&theme=dracula&langs_count=10" />
 </p>
 
----
+--- -->
 
 ## 📫 Connect with Me
 
